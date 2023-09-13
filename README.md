@@ -318,8 +318,5 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ([Table of Contents](#table-of-contents))
 
-# License
-
-This repository is under MIT license.
-
-([Table of Contents](#table-of-contents))
+## Contributer 
+[@apollxo](https://github.com/apollxo)
